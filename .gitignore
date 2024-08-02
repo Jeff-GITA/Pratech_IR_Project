@@ -1,1 +1,10 @@
 Yolo_Example/yolov5
+App_Object_Recognition/data/
+App_Object_Recognition/models/
+App_Object_Recognition/utils/
+App_Object_Recognition/weights/
+App_Object_Recognition/common.py
+App_Object_Recognition/export.py
+App_Object_Recognition/__pycache__/
+
+
