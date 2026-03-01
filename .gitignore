@@ -1,5 +1,7 @@
 Yolo_Example/yolov5
-App_Object_Recognition/runs/
-App_Object_Recognition/__pycache__/
-
-
+runs/
+__pycache__/
+.gradio
+Temp_Folder/
+tmp_Pratech_Project/
+Pratech_Documents/
